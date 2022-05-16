@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>619073851743-n2cak1iktoe8kebcl4vi8sco30hcvrp9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.619073851743-n2cak1iktoe8kebcl4vi8sco30hcvrp9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzZdOm3PqdnWUT0AyjxheBvvLJEBLeS_k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>619073851743</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ThinhLe.Activity-Feed-Example</string>
+	<key>PROJECT_ID</key>
+	<string>banking-firsapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>banking-firsapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:619073851743:ios:5a568bb33e3ac6e5a3e6ea</string>
+	<key>DATABASE_URL</key>
+	<string>https://banking-firsapp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

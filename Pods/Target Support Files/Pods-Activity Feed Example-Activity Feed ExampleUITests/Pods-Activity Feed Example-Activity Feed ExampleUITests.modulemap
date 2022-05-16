@@ -1,0 +1,6 @@
+framework module Pods_Activity_Feed_Example_Activity_Feed_ExampleUITests {
+  umbrella header "Pods-Activity Feed Example-Activity Feed ExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
